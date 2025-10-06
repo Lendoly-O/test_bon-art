@@ -31,7 +31,7 @@ npm start
 
 ## Scripts
 
-- `npm start` - Démarrer le serveur
+- `node server.js` - Démarrer le serveur
 - `npm run dev` - Mode développement avec auto-reload
 - `npm run lint` - Vérifier le code avec ESLint
 
